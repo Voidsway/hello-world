@@ -1,2 +1,3 @@
 # hello-world
-Learning the ropes
+
+Starting here first then moving forward.
